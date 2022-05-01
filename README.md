@@ -1,3 +1,2 @@
 - 👋 Hi, I’m kiran
-- 👀 I’m interested in machine leaning and deep learning 
-- Interests -Music 
+Machine learning and deep learning enthusiast  
