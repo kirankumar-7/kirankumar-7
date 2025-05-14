@@ -1,2 +1,3 @@
 - 👋 Hi, I’m kiran
-- Machine learning and deep learning enthusiast  
+
+I love Math, Quant Finance, Databases, Distributed Systems
